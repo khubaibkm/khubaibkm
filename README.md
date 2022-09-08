@@ -1,7 +1,7 @@
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://khubaibkm.github.io/simple_html_css/)
 <h1 align="center">Hi 👋, I'm Khubaib Ahmad</h1>
 <h3 align="center">A passionate web developer and a coder from India</h3>
-<img width="400" src="[https://i.gifer.com/IrBi.gif](https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1)" alt="Khubaib Do Something!!">
+<img align="right" alt="Khubaib Do Something!!" width="400" src="https://giphy.com/gifsone-numbers-binary-code-QpVUMRUJGokfqXyfa1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khubaibkm&label=Profile%20views&color=0e75b6&style=flat" alt="khubaibkm" /> </p>
 
