@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://khubaibkm.github.io/simple_html_css/](https://khubaibkm.github.io/simple_html_css/)
 
-- ⚡ Fun fact **Everyone think I'm Genius!! (probability = 1)**
+- ⚡ Fun fact **“Algorithm: Word used by programmers when they don’t want to explain what they did.”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
