@@ -1,25 +1,23 @@
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://khubaibkm.github.io/simple_html_css/)
 <h1 align="center">Hi 👋, I'm Khubaib Ahmad</h1>
-<h3 align="center">A passionate web developer and a coder from India</h3>
+<h3 align="center">Frontend Developer and a Coder from India</h3>
 <img align="right" alt="Khubaib Do Something!!" width="400" src="https://i.pinimg.com/originals/00/c5/37/00c537bdf08547f031540521892e5aa7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khubaibkm&label=Profile%20views&color=0e75b6&style=flat" alt="khubaibkm" /> </p>
 
 - 🔭 I’m currently working on [sharpening my skills](https://khubaibkm.github.io/simple_html_css/)
 
-- 🌱 I’m currently learning **WebDev, C++, DAA, Vanilla JS, etcetera**
+- 🌱 I’m currently learning **New Techs in frontend ReactJS, GSAP, MongoDB etcetera**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with [Web development projects](https://khubaibkm.github.io/simple_html_css/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/khubaibkm](https://github.com/khubaibkm)
 
-- 💬 Ask me about **Bootstrap 5, C/C++, Linux, DSA, etcetera**
+- 💬 Ask me about **JavaScript, Frontend, DSA, C/C++, Linux, etcetera**
 
 - 📫 How to reach me **khubaibahmadkm@gmail.com**
 
-- 📄 Know about my experiences [https://khubaibkm.github.io/simple_html_css/](https://khubaibkm.github.io/simple_html_css/)
+- 📄 Know about my experiences at [Portfolio](https://khubaibkm.github.io/simple_html_css/)
 
 - ⚡ Fun fact **“Algorithm: Word used by programmers when they don’t want to explain what they did.”**
 
