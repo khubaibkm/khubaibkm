@@ -1,4 +1,4 @@
-<h1 align="center">[![MasterHead](https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif)](https://playandpray.netlify.app)</h1>
+<span align="center">[![MasterHead](https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif)](https://playandpray.netlify.app)</span>
 <h1 align="center">I am Khubaib Ahmad</h1>
 <h3 align="center">Frontend Developer and a Coder from India</h3>
 <img align="right" alt="Khubaib Do Something!!" width="400" src="https://i.pinimg.com/originals/00/c5/37/00c537bdf08547f031540521892e5aa7.gif">
