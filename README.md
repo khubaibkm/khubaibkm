@@ -44,13 +44,14 @@
 
 
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khubaibkm&show_icons=true&locale=en" alt="khubaibkm" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khubaibkm" alt="khubaibkm" /> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khubaibkm&show_icons=true&locale=en&layout=compact" alt="khubaibkm" />
+   
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khubaibkm&show_icons=true&locale=en&layout=compact" alt="khubaibkm" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khubaibkm" alt="khubaibkm" /> 
 </p>
 
 
