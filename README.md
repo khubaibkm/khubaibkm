@@ -1,4 +1,4 @@
-[![MasterHead][(https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif(https://miro.medium.com/v2/resize:fit:1400/0*0O5n9x6pzlJ5qLkC.gif)](https://playandpray.netlify.app)
+[![MasterHead][(https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif](https://playandpray.netlify.app)
 <h1 align="center">Hi 👋, I'm Khubaib Ahmad</h1>
 <h3 align="center">Frontend Developer and a Coder from India</h3>
 <img align="right" alt="Khubaib Do Something!!" width="400" src="https://i.pinimg.com/originals/00/c5/37/00c537bdf08547f031540521892e5aa7.gif">
