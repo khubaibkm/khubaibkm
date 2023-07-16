@@ -10,13 +10,13 @@
 
 - 👯 Looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/khubaibkm](https://github.com/khubaibkm)
+- 👨‍💻 All of my projects are available at [https://github.com/khubaibkm](https://khubaib.live/)
 
 - 💬 Ask me about **JavaScript, Frontend, DSA, C/C++, Linux, etcetera**
 
 - 📫 How to reach me **khubaibahmadkm@gmail.com**
 
-- 📄 Know about my experiences at [Portfolio](https://khubaibkm.github.io/simple_html_css/)
+- 📄 Know about my experiences at [Portfolio](http://khubaib.live/)
 
 - ⚡ Fun fact **“Algorithm: Word used by programmers when they don’t want to explain what they did.”**
 
