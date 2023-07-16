@@ -10,7 +10,7 @@
 
 - 👯 Looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [khubaib.live](https://khubaib.live/)
+- 👨‍💻 All of my projects are available at [khubaib.live](http://khubaib.live/)
 
 - 💬 Ask me about **JavaScript, Frontend, DSA, C/C++, Linux, etcetera**
 
