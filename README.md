@@ -10,13 +10,13 @@
 
 - 👯 Looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [khubaib.live](https://khubaib.live/)
+- 👨‍💻 All of my projects are available at [khubaib.live](https://khubaiblive.netlify.app/)
 
 - 💬 Ask me about **JavaScript, Frontend, DSA, C/C++, Linux, etcetera**
 
 - 📫 How to reach me **khubaibahmadkm@gmail.com**
 
-- 📄 Know about my experiences at [Portfolio](http://khubaib.live/)
+- 📄 Know about my experiences at [Portfolio](http://khubaiblive.netlify.app/)
 
 - ⚡ Fun fact **“Algorithm: Word used by programmers when they don’t want to explain what they did.”**
 
