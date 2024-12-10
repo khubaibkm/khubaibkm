@@ -12,14 +12,13 @@
 
 - 📫 How to reach me **khubaibahmadkm@gmail.com**
 
-- 📄 Know about my experiences at [Portfolio](http://khubaiblive.netlify.app/)
-
+- 📄 Know about my experiences at <a href="http://khubaiblive.netlify.app/" target="_blank">My Portfolio</a>
 
 
 <br><br>
 <p align="center">
-   <img height="195" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=khubaibkm&show_icons=true&layout=compact" alt="khubaibkm" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khubaibkm" alt="khubaibkm" /> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khubaibkm&show_icons=true&layout=compact" alt="khubaibkm" />
 </p>
 
 
