@@ -15,11 +15,6 @@
 - 📄 Know about my experiences at <a href="http://khubaiblive.netlify.app/" target="_blank">My Portfolio</a>
 
 
-<br><br>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khubaibkm" alt="khubaibkm" /> 
-</p>
-
 
 
 
