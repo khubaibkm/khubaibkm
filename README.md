@@ -18,7 +18,6 @@
 <br><br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khubaibkm" alt="khubaibkm" /> 
-   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=khubaibkm&show_icons=true&layout=compact" alt="khubaibkm" />
 </p>
 
 
