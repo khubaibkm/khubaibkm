@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **khubaibahmadkm@gmail.com**
 
-- 📄 Know about my experiences at <a href="http://khubaiblive.netlify.app/" target="_blank">My Portfolio</a>
+- 📄 Know about my experiences at <a href="https://khubaib-live.vercel.app/" target="_blank">My Portfolio</a>
 
 
 
